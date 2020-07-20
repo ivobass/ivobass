@@ -19,9 +19,9 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 - ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`,  `.dart`, `wordpress`,
 - 💬 Fale comigo!
 - Eu :heart: open source!
-- :books: Zabbix Certified Professional and Zabbix Certified Specialist
+- :books: Pense em Python
 - :office_worker: Especialista na  **VODAFONE PT**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, flutter, wordpress, entre outras.
+- :blue_heart: Techs: Git/GitHub, React.js, React Native, Node.js,  flutter,  BootStrap, Docker, Firebase, Wordpress, segurança, entre outras.
 - :books: Estudando CI/CD com Jenkins, Docker e Azure :heart:
 
 > :octocat: [http://ivo.semfios.pt](http://ivo.semfios.pt)
