@@ -4,27 +4,27 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-baptista-3712144/)](https://www.linkedin.com/in/ivo-baptista-3712144/)
 [![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ivobaptista)](https://medium.com/@ivobaptista)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
-![Custom badge](https://img.shields.io/endpoint)
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/ivobass)](https://dev.to/ivobass)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198128/ivo-baptista)](https://pt.stackoverflow.com/users/198128/ivo-baptista)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ivobaptista)](https://twitter.com/ivobaptista)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=351917981200&text=Olá!)](https://api.whatsapp.com/send?phone=351917981200&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/joinchat/NRZBjhlw97OlMwfo1AlJBw)](https://t.me/joinchat/NRZBjhlw97OlMwfo1AlJBw)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivobass@gmail.com)](mailto:ivobass@gmail.com)
+
 ## Olá! 👋
 
 Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicações e Estudando Desenvolvimento de Sistemas FrontEnd e BackEnd.
 
 - 🌱 Atualmente estou aprendendo DevOps
-- ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`, '.dart'.
+- ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`,  `.dart`, `wordpress`,
 - 💬 Fale comigo!
 - Eu :heart: open source!
 - :books: Zabbix Certified Professional and Zabbix Certified Specialist
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+- :office_worker: Especialista na  **VODAFONE PT**
+- :blue_heart: Techs: React.js, React Native, Node.js, Docker, flutter, wordpress, entre outras.
+- :books: Estudando CI/CD com Jenkins, Docker e Azure :heart:
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
+> :octocat: [http://ivo.semfios.pt](http://ivo.semfios.pt)
 
 ---
 
@@ -32,7 +32,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lucasgdb/lucasgdb)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=IVOBASS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lucasgdb/lucasgdb)
 
 ## Algumas tecnologias
 
