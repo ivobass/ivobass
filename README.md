@@ -48,9 +48,10 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/security.svg" alt="Security" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/mac.svg" alt="Mac" style="vertical-align:top; margin:4px"></details>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:4px"></details>
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/blogs/wordpress.svg" alt="Wordpress" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/mac.svg" alt="Mac" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/pc.svg" alt="PC" style="vertical-align:top; margin:4px"></details>
+
 
 
 
