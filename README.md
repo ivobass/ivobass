@@ -90,6 +90,6 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 ## :hand: Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/13838273?v=3&s=115"><br><sub>@lucasgdb</sub>](https://github.com/lucasgdb) |
+| [<img src="https://github.com/account"><br><sub>@ivobass</sub>](https://github.com/ivobass) |
 | :----------------------------------------------------------------------------------------------------------------------------: |
 
