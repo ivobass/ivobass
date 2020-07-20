@@ -21,8 +21,8 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 - Eu :heart: open source!
 - :books: Pense em Python
 - :office_worker: Especialista na  **VODAFONE PT**
-- :blue_heart: Techs: Git/GitHub, React.js, React Native, Node.js,  flutter,  BootStrap, Docker, Firebase, Wordpress, segurança, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e Azure :heart:
+- :blue_heart: Techs: Git/GitHub, React.js, React Native, Node.js, Flutter, BootStrap, Docker, Firebase, Wordpress, segurança, entre outras.
+- :books: Estudando CI/CD com Jenkins,GitHub Actions, Docker e Azure :heart:
 
 > :octocat: [http://ivo.semfios.pt](http://ivo.semfios.pt)
 
@@ -32,7 +32,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=IVOBASS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lucasgdb/lucasgdb)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=IVOBASS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ivobass/ivobass)
 
 ## Algumas tecnologias
 
