@@ -13,9 +13,9 @@ I'm Maurício Sampaio, I'm a Full Stack Developer, with over 8 years of experien
 - :books: Zabbix Certified Professional and Zabbix Certified Specialist
 
 
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Ivo Baptista
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
