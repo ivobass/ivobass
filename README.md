@@ -1,28 +1,16 @@
 
-
-## Hi there 👋
-
-I'm Maurício Sampaio, I'm a Full Stack Developer, with over 8 years of experience in infrastructure,  who is passionate about creating solutions based on my experiences.
-
-- 🌱 I’m currently learning DevOps
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`.
-- 💬 Ask me about everything
-- I :heart: open source!
-- :books: Zabbix Certified Professional and Zabbix Certified Specialist
-
-
 # :man_technologist: Ivo Baptista
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
-[![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mausampaio/)](https://medium.com/@mausampaio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-baptista-3712144/)](https://www.linkedin.com/in/ivo-baptista-3712144/)
+[![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ivobaptista)](https://medium.com/@ivobaptista)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
-
+![Custom badge](https://img.shields.io/endpoint)
 ## Olá! 👋
 
 Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicações e Estudando Desenvolvimento de Sistemas FrontEnd e BackEnd.
