@@ -39,14 +39,17 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/exchange.svg" alt="Exchange" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/office_365.svg" alt="office_365" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-</details>
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mac.svg" alt="Mac" style="vertical-align:top; margin:4px"></details>
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/pc.svg" alt="PC" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/wordpress.svg" alt="Wordpress" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
 
 
 ## :exclamation: Requisitos
@@ -57,15 +60,15 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 ## :blue_heart: Extensões VSCode
 
--  TSLint
+-  IntelliSense for CSS class names in HTML
 -  Error Lens
 -  Color Highlight
--  EditorConfig for VS Code
+-  Color Picker
 -  Visual Studio IntelliCode
 -  Prettier - Code Formatter
 -  GitLens - Git supercharged
 -  Docker (opcional)
--  Dracula Official (opcional)
+-  Theme Spider Man (opcional)
 -  Material Icon Theme (opcional)
 
 ## :question: Como
