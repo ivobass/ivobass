@@ -3,7 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-baptista-3712144/)](https://www.linkedin.com/in/ivo-baptista-3712144/)
-[![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ivobaptista)](https://medium.com/@ivobaptista)
+[![Medium Badge](https://img.shields.io/badge/-@ivobass-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ivobaptista)](https://medium.com/@ivobaptista)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/ivobass)](https://dev.to/ivobass)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198128/ivo-baptista)](https://pt.stackoverflow.com/users/198128/ivo-baptista)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ivobaptista)](https://twitter.com/ivobaptista)
