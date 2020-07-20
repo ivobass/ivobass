@@ -1,6 +1,4 @@
-# Maurício Sampaio 
-[![Twitter Badge](https://img.shields.io/badge/-@mausampaio-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mausampaio)](https://twitter.com/mausampaio) [![Linkedin Badge](https://img.shields.io/badge/-mausampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mausampaio/)](https://www.linkedin.com/in/mausampaio/) [![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mausampaio/)](https://medium.com/@mausampaio/)
-[![Gmail Badge](https://img.shields.io/badge/-mausampaio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mausampaio@gmail.com)](mailto:mausampaio@gmail.com)
+
 
 ## Hi there 👋
 
@@ -17,6 +15,7 @@ I'm Maurício Sampaio, I'm a Full Stack Developer, with over 8 years of experien
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
+[![Medium Badge](https://img.shields.io/badge/-@mausampaio-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mausampaio/)](https://medium.com/@mausampaio/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
@@ -26,8 +25,13 @@ I'm Maurício Sampaio, I'm a Full Stack Developer, with over 8 years of experien
 
 ## Olá! 👋
 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
+Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicações e Estudando Desenvolvimento de Sistemas FrontEnd e BackEnd.
 
+- 🌱 Atualmente estou aprendendo DevOps
+- ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`, '.dart'.
+- 💬 Fale comigo!
+- Eu :heart: open source!
+- :books: Zabbix Certified Professional and Zabbix Certified Specialist
 - :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
 - :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
