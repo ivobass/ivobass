@@ -102,9 +102,9 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 
 
-# Hi, I'm Ivo Baptista! ✨
+# Hi, I'm Ivo Baptista! 
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ivo-baptista-3712144/) [![Gmail Badge](https://img.shields.io/badge/-ivobassm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:ivobass@gmail.com)](mailto:ivobass@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ivo-baptista-3712144/) [![Gmail Badge](https://img.shields.io/badge/-ivobass@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:ivobass@gmail.com)](mailto:ivobass@gmail.com)
 
 ## About me
 
