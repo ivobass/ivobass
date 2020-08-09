@@ -102,16 +102,16 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 
 
-# Hi, I'm Gabriela Queiroz! ✨
+# Hi, I'm Ivo Baptista! ✨
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabriela-queiroz-74a8a1100/) [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ivo-baptista-3712144/) [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:ivobass@gmail.com)](mailto:ivobass@gmail.com)
 
 ## About me
 
 
-👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
+👩‍💻 <strong>I'm learn Fullstack Developer.</strong> 
 
-👣 I'm 26 Hears Old.
+👣 I'm 50 Years Old.
 
 🌍 I live in Portugal.
 
@@ -121,7 +121,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Language:**
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ivobass/)](https://github.com/gabiqrm/) 
 
 ##
 
