@@ -133,7 +133,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Others Technologies:**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![WordPress](https://img.shields.io/badge/-WordPress-f4457f?style=flat-square&logo=Insomnia&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
@@ -145,7 +145,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Operational Systems:**
 
-[![Mac](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Mac](https://img.shields.io/badge/-IOS-4444D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
