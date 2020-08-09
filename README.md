@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="auto" src="https://github.com/ivobass/IvoWebPage/blob/master/coding.jpg?raw=true">
+	<img width="300" src="https://github.com/ivobass/IvoWebPage/blob/master/coding.jpg?raw=true">
 
 
 # :man_technologist: Ivo Baptista
