@@ -139,13 +139,13 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Databases:**
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
 **Operational Systems:**
 
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Mac](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
