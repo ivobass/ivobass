@@ -133,7 +133,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Others Technologies:**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![WordPress](https://img.shields.io/badge/-WordPress-00007f?style=flat-square&logo=Insomnia&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![WordPress](https://img.shields.io/badge/-WordPress-00007f?style=flat-square&logo=wordpress&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
