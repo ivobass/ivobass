@@ -127,25 +127,25 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Front-end:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ivobass)](https://github.com/ivobass)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ivobass/)](https://github.com/ivobass/)  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/ivobass/) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ivobass)](https://github.com/ivobass)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ivobass)](https://github.com/ivobass)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ivobass/)](https://github.com/ivobass/)  
 
 ##
 
 **Others Technologies:**
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![WordPress](https://img.shields.io/badge/-WordPress-f4457f?style=flat-square&logo=Insomnia&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![WordPress](https://img.shields.io/badge/-WordPress-00007f?style=flat-square&logo=Insomnia&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
 **Databases:**
 
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![MySQL](https://img.shields.io/badge/-MySQL-ffc4db?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
 **Operational Systems:**
 
-[![Mac](https://img.shields.io/badge/-IOS-4444D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Mac](https://img.shields.io/badge/-IOS-4444D6?style=flat-square&logo=apple&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
