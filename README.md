@@ -139,7 +139,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Databases:**
 
-[![MySQL](https://img.shields.io/badge/-MySQL-ff4445?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![MySQL](https://img.shields.io/badge/-MySQL-0078D6?style=flat-square&logo=mysql&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 ##
 
