@@ -161,4 +161,4 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 
 **Versioning and Communication:**
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![BitBucket](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ivobass/)](https://github.com/ivobass/)[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ivobass/)](https://github.com/ivobass/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![BitBucket][![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ivobass/)](https://github.com/ivobass/)
