@@ -19,7 +19,7 @@
 Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicações e Estudando Desenvolvimento de Sistemas FrontEnd e BackEnd.
 
 - 🌱 Atualmente estou aprendendo DevOps
-- ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`, `.py`, `.dart`, `wordpress`,
+- ⚙️ Eu uso diariamente: `.js`, `.html`, `.css`, `.php`, `.py`, `.dart`, `wordpress`, `.C`, `.C++`, `.Java`,
 - 💬 Fale comigo!
 - Eu :heart: open source!
 - :books: Pense em Python
