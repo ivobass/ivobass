@@ -158,7 +158,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 **IDE:**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ivobass/)](https://github.com/ivobass/)
-
+[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-007ACC?style=flat-square&logo=SublimeText&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 ##
 
 **Versioning and Communication:**
