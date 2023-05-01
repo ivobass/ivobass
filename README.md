@@ -27,7 +27,7 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 - :blue_heart: Techs: Git/GitHub, React.js, React Native, Node.js, Flutter, BootStrap, Docker, Firebase, Wordpress, segurança, entre outras.
 - :books: Estudando CI/CD com Jenkins,GitHub Actions, Docker e Azure :heart:
 
-> :octocat: [http://ivo.semfios.pt](http://ivo.semfios.pt)
+> :octocat: [(https://ivo.com.pt)](https://ivo.com.pt)
 
 ---
 
