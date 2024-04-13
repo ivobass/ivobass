@@ -168,4 +168,4 @@ Meu nome é Ivo Baptista, Técnico em Hardware, especialista em telecomunicaçõ
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ivobass/)](https://github.com/ivobass/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/ivobass/)](https://github.com/ivobass/)
 
 
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ivobass/ivobass/blob/output/github-contribution-grid-snake.svg)
